@@ -10,7 +10,9 @@ if (process.env.NODE_ENV === "production") {
   app.use(express.static("client/build"));
 };
 
-
+app.get("/api/config", (_, res) => {
+  res.json({ success: true });
+});
 
 app.get('*', (_, res) => {
     res.sendFile(path.join(__dirname, './client/build/index.html'));
