@@ -7,6 +7,13 @@ export const projects = [
     repositoryLink: "https://github.com/Volodya1989/Memory-Maker",
     overview:
       "This application is intended to help user organize their memories so that they spend less time scrolling through their phone for pictures and more time enjoying their memories! ",
+  },{
+    name: "Trip Planner",
+    key: "radventure",
+    image: "radventure",
+    deployedLink: "https://radvan.herokuapp.com/",
+    repositoryLink: "https://github.com/Volodya1989/Radventure",
+    overview: `This is MERN application was created for people who want to keep truck of their trips app. Also MapQuest, Node, Express and MongoDB, Passoprt were used so that users can save, update, and delete saved trips.`,
   },
   {
     name: "Books Search",
@@ -17,7 +24,7 @@ export const projects = [
     overview: `This is MERN application. It was created for people who would like to search for books. Also Node, Express and MongoDB were used so that users can save books to review or purchase later on.`,
   },
   {
-    name: "Staying In Tonight",
+    name: "Movie and Game Generator",
     key: "stayingInTonight",
     image: "stayingInTonight",
     deployedLink: "https://volodya1989.github.io/Staying-in-Tonight-Generator/",
