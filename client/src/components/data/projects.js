@@ -11,7 +11,7 @@ export const projects = [
     name: "Trip Planner",
     key: "radventure",
     image: "radventure",
-    deployedLink: "https://radvan.herokuapp.com/",
+    deployedLink: "https://radven.herokuapp.com/",
     repositoryLink: "https://github.com/Volodya1989/Radventure",
     overview: `This is MERN application was created for people who want to keep truck of their trips app. Also MapQuest, Node, Express and MongoDB, Passoprt were used so that users can save, update, and delete saved trips.`,
   },
