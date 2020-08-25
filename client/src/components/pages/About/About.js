@@ -58,8 +58,8 @@ function About() {
                   <h5>My Skill Set</h5>
                   <p>
                     <span>
-                      JavaScript | Java | React.js | Express.js | Node.js |HTML5
-                      | jQuery| Mongo DB | MySQL | ES6 | CSS | Cucumber |
+                      JavaScript | Java | React.js | Express.js | Node.js | HTML5
+                      | jQuery | Mongo DB | MySQL | ES6 | CSS | Cucumber |
                       PostgreSQL | Selenium WebDriver | Jmeter | Jenkins |
                       Postman | GitHub | GitLab | Jenkins | Bamboo | Docker |
                       TestNG | Junit | Android Studio | X-code | Selenium Grid |
