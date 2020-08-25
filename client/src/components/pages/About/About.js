@@ -6,8 +6,8 @@ import inl from "../../assets/inl.png";
 import mail from "../../assets/mail.png";
 import github from "../../assets/github.png";
 import ScrollUp from "../../ScrollUp/ScrollUp";
-import Portfolio from '../Portfolio/Portfolio';
-import Contact from '../Contact/Contact';
+import Portfolio from "../Portfolio/Portfolio";
+import Contact from "../Contact/Contact";
 
 import "./about.style.css";
 
@@ -21,7 +21,7 @@ function About() {
               <div className="row">
                 <div className="col-sm-12">
                   <h1 className="content-text">About Me</h1>
-                  <hr id="portfolioLine"/>
+                  <hr id="portfolioLine" />
                 </div>
               </div>
 
@@ -35,29 +35,37 @@ function About() {
                   />
 
                   <p>
-                    Who am I? I would say that I am the person who believe that
-                    we become smarter people by resolving prolems, but not by
+                    Who am I? I would say that I am the person who believes that
+                    we become smarter people by resolving problems, but not by
                     escaping from them out of fear. Having said this I would say
                     that I really enjoy coding. Why? Because of at least three
-                    reasons. First, I just love it. Secondly, being Software
-                    Developer always pushes me to learn and develop myself as
-                    personality. Thirdly, there is no way to escape from
-                    problems while coding, but the only way to success is to
-                    resolve them.
+                    reasons. First, I just love it. Secondly, being a Software
+                    Developer always pushes me to learn and develop myself as a
+                    person. Thirdly, there is no way to escape from problems
+                    while coding, but the only way to succeed is to resolve
+                    them.
                   </p>
                   <p>
                     Now a few words about my background. Originally I'm from
                     Ukraine. Having moved to the US more than 8 years ago.
-                    Started my career as QA Engineer and worked for a while.
+                    Started my career as a QA Engineer and worked for a while.
                     However, I felt that it was not enough for me. So, then I
-                    decided to become Software Developer and now enjoy by being
-                    whom I am. Now, I'm looking for new opportunities as Full
-                    Stack Developer.
+                    decided to become a Software Developer and now enjoy my
+                    work. I'm looking for new opportunities as a Full Stack
+                    Developer.
                   </p>
                   <hr />
                   <div id="aboutIcons" className="row ">
-                    <a href={Resume_Vol_Petrytsya} className="img__wrap" target="_blank">
-                      <img className="logo img__img" src={resumeIcon} alt="CV"></img>
+                    <a
+                      href={Resume_Vol_Petrytsya}
+                      className="img__wrap"
+                      target="_blank"
+                    >
+                      <img
+                        className="logo img__img"
+                        src={resumeIcon}
+                        alt="CV"
+                      ></img>
                       <p className="img__description">Resume</p>
                     </a>
                     <a href="https://github.com/Volodya1989" target="_blank">
@@ -80,8 +88,8 @@ function About() {
           </div>
         </section>
       </main>
-      <Portfolio/>
-      <Contact/>
+      <Portfolio />
+      <Contact />
     </div>
   );
 }
