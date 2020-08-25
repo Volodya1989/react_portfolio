@@ -54,8 +54,9 @@ function About() {
                     work. I'm looking for new opportunities as a Full Stack
                     Developer.
                   </p>
+                  <hr id="portfolioLine" />
+                  <h5>My skills set</h5>
                   <p>
-                    <strong>My skill set: </strong>
                     <span>
                       JavaScript | Java | React.js | Express.js | Node.js |HTML5
                       | jQuery| Mongo DB | MySQL | ES6 | CSS | Cucumber |
@@ -65,7 +66,7 @@ function About() {
                       Sauce Labs | Jira
                     </span>
                   </p>
-                  <hr />
+                  <hr id="portfolioLine" />
                   <div id="aboutIcons" className="row ">
                     <a
                       href={Resume_Vol_Petrytsya}

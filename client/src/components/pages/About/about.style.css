@@ -34,6 +34,7 @@
 }
 .logo:hover {
   transform: scale(1.3);
+  background-color: rgba(78, 238, 250, 0.925);
 }
 @media screen and (max-width: 990px) {
   #about-info {
