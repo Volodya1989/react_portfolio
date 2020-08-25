@@ -55,7 +55,7 @@ function About() {
                     Developer.
                   </p>
                   <hr id="portfolioLine" />
-                  <h5>My skills set</h5>
+                  <h5>My Skill Set</h5>
                   <p>
                     <span>
                       JavaScript | Java | React.js | Express.js | Node.js |HTML5
