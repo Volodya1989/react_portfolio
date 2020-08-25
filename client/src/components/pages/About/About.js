@@ -54,6 +54,17 @@ function About() {
                     work. I'm looking for new opportunities as a Full Stack
                     Developer.
                   </p>
+                  <p>
+                    <strong>My skill set: </strong>
+                    <span>
+                      JavaScript | Java | React.js | Express.js | Node.js |HTML5
+                      | jQuery| Mongo DB | MySQL | ES6 | CSS | Cucumber |
+                      PostgreSQL | Selenium WebDriver | Jmeter | Jenkins |
+                      Postman | GitHub | GitLab | Jenkins | Bamboo | Docker |
+                      TestNG | Junit | Android Studio | X-code | Selenium Grid |
+                      Sauce Labs | Jira
+                    </span>
+                  </p>
                   <hr />
                   <div id="aboutIcons" className="row ">
                     <a
