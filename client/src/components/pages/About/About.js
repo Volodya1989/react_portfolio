@@ -54,7 +54,7 @@ function About() {
                     work. I'm looking for new opportunities as a Full Stack
                     Developer.
                   </p>
-                  <hr id="portfolioLine" />
+                  <hr id="portfolioLine"/>
                   <h5>My Skill Set</h5>
                   <p>
                     <span>
