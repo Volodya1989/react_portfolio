@@ -51,12 +51,12 @@ export const projects = [
     overview: `Weather Dashboard Application was build by using  by using HTML, CSS, Bootstrap Library and jQuery. This application is intended for people who want to check weather in different cities on daily basis.`,
   },
 
-  {
-    name: "Coding Quiz",
-    key: "codingQuiz",
-    image: "codingQuiz",
-    deployedLink: "https://volodya1989.github.io/coding-quiz-app/",
-    repositoryLink: "https://github.com/Volodya1989/gt-hw-coding-quiz-app",
-    overview: `Coding Quiz Application was build  by using HTML, CSS, Bootstrap library and JavaScript. This application is intended for people who want to check their knowledge on JavaScript and its rules.`,
-  },
+  // {
+  //   name: "Coding Quiz",
+  //   key: "codingQuiz",
+  //   image: "codingQuiz",
+  //   deployedLink: "https://volodya1989.github.io/coding-quiz-app/",
+  //   repositoryLink: "https://github.com/Volodya1989/gt-hw-coding-quiz-app",
+  //   overview: `Coding Quiz Application was build  by using HTML, CSS, Bootstrap library and JavaScript. This application is intended for people who want to check their knowledge on JavaScript and its rules.`,
+  // },
 ];
